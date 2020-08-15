@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- Thanks for visiting my **Home** 
+- I'm a **PHP** and **Angular Developer**.
+- I'm currently trying to expert Angular for modern website development.
+- Contact me at: huynhlehoangduc@gmail.com
 <!--
 **huynhlehoangduc/huynhlehoangduc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
