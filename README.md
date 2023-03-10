@@ -8,7 +8,7 @@
 👉 Do you need a maintainable code? \
 👉 Do you need a product that is delivered in the shortest time possible? \
 👉 Do you need a friendly developer? \
-👉 Do you need a price/performance developer? \
+👉 Do you need a price/performance developer? 
 
 You are right when you look for me.🥳🥳🥳 
 <!--
